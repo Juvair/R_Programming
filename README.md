@@ -1,2 +1,2 @@
 # R_Programming
-This repository contains the the code for R programming language
+This repository contains the the code for R programming language. I've learned these code from "Biostatistics: Theory and Applications in R (Virtual)" training. Offered by US Forest Services, Department of Forestry and Environmental Science (SUST) & USD. This training was for 10 weeks long and learned from the beginner to intermediate level. Thank you for selecting me for the training.
